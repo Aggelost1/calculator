@@ -1,5 +1,3 @@
-*.pdb
-*.fck
-*.pbdvfvvd
-*.gore
-
+bin
+obj
+.vs
